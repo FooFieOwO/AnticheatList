@@ -11,3 +11,4 @@ Gamster - Intave
 GommeHD - Intave   
 Shotbow - AAC4.4.2 in mineZ but the others idk.    
 Omegacraft - NCP + Vulcan (Not 100% sure just tested with commands)
+zonecraft - Morgan IDFK maybe custom
