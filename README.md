@@ -1,7 +1,7 @@
 # AnticheatList 
 Hypixel - Watchdog (NCP Similar)   
-Pikanetwork - Grim   
-Jartexnetwork - Grim   
+Pikanetwork - Polar   
+Jartexnetwork - Polar   
 ColdPvP - Verus   
 CubeCraft - Sentinel   
 Hycraft - Polar   
