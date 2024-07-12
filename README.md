@@ -1,5 +1,5 @@
 # Anticheat List 
-- Hypixel - Watchdog (NCP Similar)   
+- Hypixel - Watchdog (NCP based)   
 - Pikanetwork - Polar   
 - Jartexnetwork - Polar   
 - ColdPvP - Verus   
@@ -9,7 +9,7 @@
 - Kokscraft - Custom   
 - Gamster - Polar   
 - GommeHD - Intave   
-- Shotbow - AAC4.4.2 (In MineZ and Matrix in some otners)   
+- Shotbow - AAC4.4.2 (In MineZ) | Matrix in some others   
 - Omegacraft - NCP + Vulcan (Not 100% sure just tested with commands)    
 - zonecraft - Morgan [Better version of verusairlines](https://www.reddit.com/r/minecraftclients/comments/xz19ck/what_anticheat_does_zonecraft_use/)    
 - BlocksMC - Custom NCP + Verus
